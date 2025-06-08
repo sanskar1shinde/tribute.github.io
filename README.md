@@ -1,1 +1,1 @@
-# trubute
+# tribute
